@@ -15,7 +15,7 @@
 <p>Type ./console.py to start the console
 <br>and type help to see the available commands</p>
 <h3>Examples</h3>
-```
+<code>
 (hbnb) create BaseModel
 49faff9a-6318-451f-87b6-910505c55907
 (hbnb) all BaseModel
@@ -27,6 +27,6 @@
 (hbnb) update BaseModel 49faff9a-6318-451f-87b6-910505c55907 first_name "Betty"
 (hbnb) show BaseModel 49faff9a-6318-451f-87b6-910505c55907
 [BaseModel] (49faff9a-6318-451f-87b6-910505c55907) {'first_name': 'Betty', 'id': '49faff9a-6318-451f-87b6-910505c55907', 'created_at': datetime.datetime(2017, 10, 2, 3, 10, 25, 903293), 'updated_at': datetime.datetime(2017, 10, 2, 3, 11, 3, 49401)}
-```
+</code>
 <h2>Authors:</h2>
 EZZAHRA EL IDRISSI
